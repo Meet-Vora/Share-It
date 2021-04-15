@@ -15,7 +15,7 @@
 ## Features
 1. Shared list (what you sent)
 2. Feed (what others have shared)
-3. Login/Authentication
+3. Login/Authentication (store it in user's cookies)
 
 
 ## User Interface/Integration
